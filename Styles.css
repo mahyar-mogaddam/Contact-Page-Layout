@@ -1,0 +1,75 @@
+html {
+    width : 100%;
+    height : 100%;
+    padding: 0px;
+}
+body {
+    width : 100%;
+    height : 100%;
+    background-color: rgb(41, 41, 41);
+    font-family: tahoma;
+}
+#main {
+    width : 100%;
+    height: 60%;
+    margin: 50px auto;
+}
+#text {
+    float: right;
+    width : 49%;
+    height: 100%;
+}
+#inputs {
+    float: right;
+    width : 50%;
+    height: 100%;
+}
+input {
+    display: block;
+    width: 50%;
+    height : 3%;
+    padding: 10px;
+    margin: 15px 0 15px 0;
+    margin-right: 46%;
+    font-size: 15px;
+}
+textarea {
+    width : 52.3%;
+    margin-right: 46%;
+    font-size: 15px;
+    padding: 10px;
+}
+button {
+    margin-top: 15px;
+    margin-right: 46%;
+    width : 100px;
+    height: 50px;
+    font-size: 30px;
+}
+#items{
+    border-right: 1px solid white;
+    height : 60%;
+}
+img {
+    float: right;
+    margin-right: 10px;
+    padding-left: 7px;
+    width : 3%;
+}
+p {
+    color: #c4c4c4;
+    font-size: 18px;
+}
+#footer {
+    height: 20%;
+    padding-right: 37%;
+}
+#footer a{
+    color : #c4c4c4;
+    text-decoration: none;
+    margin : 10px 15px 10px 15px;
+    font-size: 20px;
+}
+#copyright p{
+    text-align: center;
+}
